@@ -1,0 +1,35 @@
+.div{float: left;}
+.div1{float: left;}
+.div2{float: left;;}
+.div3{float: left;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .box1{background-color: darksalmon;margin: 0%;}
+  .box2{background-color: darkseagreen;margin: 0%;}
+  .box3{background-color: deepskyblue;margin: 0%;height: 400px;}
+  h1 {margin: 0%;}
+ul{margin: 0%;}
+img{margin: 0%;}
+p {margin: 0%;}
+  
